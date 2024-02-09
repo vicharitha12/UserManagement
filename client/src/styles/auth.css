@@ -1,0 +1,42 @@
+.signin-main {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  background: #e5e5e5;
+  height: 100%;
+}
+.signin-main Form {
+  background-color: #fff;
+  padding: 30px;
+  width: 25em;
+  border-radius: 10px;
+  border: 1px solid green;
+  margin: 50px 0;
+}
+.nav-btn {
+  width: 7em;
+  white-space: nowrap;
+  margin-left: 1.5em;
+}
+.submit-btn {
+  display: flex;
+  justify-content: center;
+}
+
+.submit-btn button {
+  width: 12em;
+  align-items: center;
+  vertical-align: middle;
+  padding: 10px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media screen and (max-width: 768px) {
+  .nav-btn {
+    margin-left: 0;
+    margin-right: 2em;
+  }
+}
