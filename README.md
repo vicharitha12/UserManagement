@@ -12,4 +12,4 @@ Successful registration:
 ![image](https://github.com/vicharitha12/UserManagement/assets/122369989/a889103a-4298-47a5-9b29-21396b59adc1)
 
 Dashboard:
-![image](https://github.com/vicharitha12/UserManagement/assets/122369989/33f454db-6bc3-4690-af7c-ecca8c4fd977)
+![image](https://github.com/vicharitha12/UserManagement/assets/122369989/13c4e04a-a9e1-4935-9022-95c78746847d)
