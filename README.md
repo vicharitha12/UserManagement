@@ -8,6 +8,7 @@ Registration Page:
 ![image](https://github.com/vicharitha12/UserManagement/assets/122369989/a93f8d3b-dfcc-4b92-b25e-0692680947c1)
 
 Successful registration:
+
 ![image](https://github.com/vicharitha12/UserManagement/assets/122369989/a889103a-4298-47a5-9b29-21396b59adc1)
 
 Dashboard:
